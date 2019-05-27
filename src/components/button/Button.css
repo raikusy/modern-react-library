@@ -1,0 +1,41 @@
+.Button {
+  padding: 10px;
+  background-color: #db4d4d;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  box-shadow: 3px 4px 0px rgba(0, 0, 0, 0.15);
+  position: relative;
+  top: 0px;
+  display: block;
+  margin: 1em 0;
+}
+
+.Button:hover {
+  background-color: #f03434;
+  color: #fff;
+  cursor: pointer;
+}
+
+.Button:active {
+  box-shadow: 3px 2px 0px rgba(0, 0, 0, 0.15);
+  transition: none;
+  position: relative;
+  top: 2px;
+}
+
+.Button:disabled {
+  background-color: #ececec;
+  color: #4a4a4a;
+  box-shadow: none;
+}
+
+.Button:disabled:hover {
+  cursor: auto;
+}
+
+.Button:disabled:active {
+  position: relative;
+  top: 0;
+}

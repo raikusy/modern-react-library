@@ -1,0 +1,34 @@
+---
+name: Button
+route: /components/button
+menu: Components
+---
+
+import { Playground, Props } from 'docz';
+import Button from './Button.js';
+
+# Button
+
+## Button Props
+
+<Props of={Button} />
+
+## Regular Button
+
+<Playground>
+  <Button>Click me</Button>
+</Playground>
+
+## Disabled Button
+
+<Playground>
+  <Button disabled>Disabled</Button>
+</Playground>
+
+## Custom Custom Style
+
+<Playground>
+  <Button style={{ width: '200px', backgroundColor: '#446cb3' }}>
+    Disabled
+  </Button>
+</Playground>
