@@ -27,7 +27,6 @@ const defaultConfig = {
           assetsPath: path.resolve('dist')
         }),
         require('postcss-preset-env')({
-          browsers: '> 0.25%, ie 11, not dead, not op_mini all',
           stage: 0
         })
       ]
