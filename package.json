@@ -90,7 +90,7 @@
     "react-hot-loader": "4.11.1",
     "react-scripts": "3.0.1",
     "rimraf": "2.6.3",
-    "rollup": "1.15.5",
+    "rollup": "1.15.6",
     "rollup-plugin-babel": "4.3.2",
     "rollup-plugin-commonjs": "10.0.0",
     "rollup-plugin-node-resolve": "5.0.2",
