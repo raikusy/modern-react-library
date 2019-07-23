@@ -87,7 +87,7 @@
     "postcss-url": "8.0.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-hot-loader": "4.11.1",
+    "react-hot-loader": "4.12.9",
     "react-scripts": "3.0.1",
     "rimraf": "2.6.3",
     "rollup": "1.17.0",
