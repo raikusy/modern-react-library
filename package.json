@@ -85,7 +85,7 @@
     "postcss-modules": "1.4.1",
     "postcss-preset-env": "6.7.0",
     "postcss-url": "8.0.0",
-    "react": "16.8.6",
+    "react": "16.9.0",
     "react-dom": "16.8.6",
     "react-hot-loader": "4.12.9",
     "react-scripts": "3.0.1",
